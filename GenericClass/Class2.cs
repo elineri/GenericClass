@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GenericClass
 {
-    class Class1<Unknown> : Check<Unknown>
+    class Class2<Unknown> : Check<Unknown>
     {
         public override bool ToCheck(Unknown var1, Unknown var2)
         {

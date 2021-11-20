@@ -4,9 +4,9 @@ using System.Text;
 
 namespace GenericClass
 {
-    class Class1<Unknown> : Check<Unknown>
+    class Check<Unknown>
     {
-        public override bool ToCheck(Unknown var1, Unknown var2)
+        public virtual bool ToCheck(Unknown var1, Unknown var2)
         {
             if (var1.Equals(var2))
             {
