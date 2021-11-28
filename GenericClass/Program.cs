@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Elin Ericstam SUT21
+using System;
 
 namespace GenericClass
 {
